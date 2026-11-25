@@ -32,10 +32,10 @@ Quand on modifie la quantité dans le api/basketItems et qu'on la met en négati
 (pas faire attention au nombres qui sont pas les memes j'ai du refaire le screen d'au dessus)  
 <img width="755" height="316" alt="image" src="https://github.com/user-attachments/assets/a6593f42-1613-4bcd-bef2-7bd8be1f0caa" />
 <img width="397" height="89" alt="image" src="https://github.com/user-attachments/assets/4e68562a-2cfa-4492-94e9-397d97b73292" />
-<img width="679" height="209" alt="image" src="https://github.com/user-attachments/assets/fdc275c6-f0d3-4004-9b76-6407063cfff9" />
+<img width="679" height="209" alt="image" src="https://github.com/user-attachments/assets/fdc275c6-f0d3-4004-9b76-6407063cfff9" />  
 
 Ici on trouve l'id du panier qui était en base64 dans le token JWT   
 <img width="944" height="45" alt="Capture d&#39;écran 2026-11-25 155246" src="https://github.com/user-attachments/assets/0095f917-c92c-4bc6-943f-29dbf31aa4fc" />
-<img width="523" height="90" alt="Capture d&#39;écran 2026-11-25 161217" src="https://github.com/user-attachments/assets/e6f02345-d7c7-4840-985b-f82261845bbb" />
+<img width="523" height="90" alt="Capture d&#39;écran 2026-11-25 161217" src="https://github.com/user-attachments/assets/e6f02345-d7c7-4840-985b-f82261845bbb" />  
 voici le panier de l'utilisateur a qui j'ai rajouté des items  
 <img width="701" height="449" alt="image" src="https://github.com/user-attachments/assets/39263e95-47b2-44b7-8625-0b1b777cca37" />
